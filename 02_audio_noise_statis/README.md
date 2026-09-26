@@ -1,4 +1,4 @@
-# Spesifikasi Perangkat
+# SPESIFIKASI PERANGKAT
 ## Audio direkam menggunakan aplikasi perekam bawaan Infinix Hot 60 Pro Plus.
 ## Noise berasal dari kipas dengan spesifikasi sebagai berikut.
 Brand   : Welhome
